@@ -1,4 +1,8 @@
---делал тинтине а ты бомш
+--[[-------------------------------------------------------------------------
+	WARDEN v2.0.0
+	by: Silhouhat (http://steamcommunity.com/id/Silhouhat/)
+---------------------------------------------------------------------------]]
+
 local net_ReadHeader=net.ReadHeader 
 local util_NetworkIDToString=util.NetworkIDToString
 local gamers=player.GetAll
